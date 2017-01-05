@@ -1,0 +1,46 @@
+/* Sass Document */
+html, body {
+  height: 100vh;
+  background-color: black; }
+  html .wrapper, body .wrapper {
+    overflow: hidden; }
+    html .wrapper .navbar, body .wrapper .navbar {
+      border-radius: 0px; }
+    html .wrapper .navbar-default, body .wrapper .navbar-default {
+      background-color: #232323;
+      border-color: #232323; }
+    html .wrapper header, body .wrapper header {
+      height: 100vh; }
+      html .wrapper header .jumbotron, body .wrapper header .jumbotron {
+        background-color: black;
+        padding-top: 0px; }
+        html .wrapper header .jumbotron .logo, body .wrapper header .jumbotron .logo {
+          display: none;
+          position: relative;
+          height: 100vh; }
+          html .wrapper header .jumbotron .logo .logo-container, body .wrapper header .jumbotron .logo .logo-container {
+            display: inline-block;
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            -webkit-transform: translateY(-50%) translateX(-50%);
+            transform: translateY(-50%) translateX(-50%); }
+            html .wrapper header .jumbotron .logo .logo-container .image-back, body .wrapper header .jumbotron .logo .logo-container .image-back {
+              position: absolute;
+              height: 80vmin;
+              width: 80vmin;
+              filter: alpha(opacity=50);
+              -moz-opacity: 0.5;
+              opacity: 0.5; }
+            html .wrapper header .jumbotron .logo .logo-container .image-logo, body .wrapper header .jumbotron .logo .logo-container .image-logo {
+              width: 80vmin;
+              height: 80vmin; }
+    html .wrapper .height-fix, body .wrapper .height-fix {
+      height: 100vh; }
+    html .wrapper section h2, html .wrapper section h3, html .wrapper section h4, html .wrapper section h5, html .wrapper section p, body .wrapper section h2, body .wrapper section h3, body .wrapper section h4, body .wrapper section h5, body .wrapper section p {
+      color: white; }
+    html .wrapper section .row, body .wrapper section .row {
+      padding: 20px 0px; }
+    html .wrapper .well, body .wrapper .well {
+      background-color: black;
+      border: 0px; }
