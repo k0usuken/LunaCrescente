@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.luna-crescente.net" resolutions="1x,2x" timestamp="1513623011634">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.luna-crescente.net" resolutions="1x,2x" timestamp="1514226470871">
   <folder name="css">
     <file name="site_global.css" crc="4014984476"/>
-    <file name="master_a-master.css" crc="283592943" ref="index"/>
+    <file name="master_a-master.css" crc="4027355095" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="421157317" ref="index"/>
-    <file name="nomq_index.css" crc="517334729" ref="index"/>
+    <file name="index.css" crc="4015257571" ref="index"/>
+    <file name="nomq_index.css" crc="3785409236" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -76,6 +76,54 @@
     <file name="jacket2x241x242_2x.jpg" crc="104381212" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="shiki_edited.png" crc="4229981574" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shiki_edited_2x.png" crc="3871870792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nakamura_edited.png" crc="63830371" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nakamura_edited_2x.png" crc="3857279867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shiki_edited148x148.png" crc="360269906" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shiki_edited148x148_2x.png" crc="273156368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nakamura_edited148x147.png" crc="3831407477" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nakamura_edited148x147_2x.png" crc="69531837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shiki_edited103x103.png" crc="351835730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shiki_edited103x103_2x.png" crc="83992408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nakamura_edited103x103.png" crc="197213602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nakamura_edited103x103_2x.png" crc="182397757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shiki_edited60x60.png" crc="352174280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shiki_edited60x60_2x.png" crc="80597390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nakamura_edited60x60.png" crc="4276222548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nakamura_edited60x60_2x.png" crc="296185454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4075856715" seo="true" mt="1513622963711" redirect="true"/>
+  <file name="index.html" crc="240107172" seo="true" mt="1514226245584" redirect="true"/>
 </manifest>

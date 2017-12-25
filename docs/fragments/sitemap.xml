@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.luna-crescente.net/index.html</loc>
-    <lastmod>2017-12-19</lastmod>
+    <lastmod>2017-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -55,6 +55,54 @@
     </image:image>
     <image:image>
       <image:loc>http://www.luna-crescente.net/images/jacket2x241x242_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/shiki_edited.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/shiki_edited_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/nakamura_edited.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/nakamura_edited_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/shiki_edited148x148.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/shiki_edited148x148_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/nakamura_edited148x147.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/nakamura_edited148x147_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/shiki_edited103x103.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/shiki_edited103x103_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/nakamura_edited103x103.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/nakamura_edited103x103_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/shiki_edited60x60.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/shiki_edited60x60_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/nakamura_edited60x60.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.luna-crescente.net/images/nakamura_edited60x60_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
